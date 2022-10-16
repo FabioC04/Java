@@ -1,0 +1,1 @@
+Eseguire da pre.jsp altrimenti non vengono istanziati gli oggetti
